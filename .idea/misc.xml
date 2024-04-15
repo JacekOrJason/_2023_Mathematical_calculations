@@ -4,6 +4,6 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/../2023 Mathematical Calculations/_2023 Mathematical calculations/out" />
+    <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
